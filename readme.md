@@ -1,8 +1,7 @@
 ### Hi there, I'm Evgeniy - aka [Masloves](https://github.com/Masloves)
-I'm a beginner Python Programmer from Russia 🇷🇺 
+
 ### **Connect with me:**
 
-[<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />](https://www.instagram.com/johny_masloves/)
 [<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/VK.com-logo.svg">](https://vk.com/johny_masloves)
 [<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">](https://t.me/masloves)
 
