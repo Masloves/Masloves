@@ -15,8 +15,6 @@ SPA-приложение с авторизацией, защищёнными м�
 ### 🔹 SkillSwap
 👉 https://github.com/Masloves/SkillSwap/tree/develop  
 Платформа обмена навыками с каталогом, фильтрами и системой лайков.  
-
- <p align=""> <img src="https://github-readme-streak-stats.herokuapp.com?user=Masloves&theme=merko&hide_border=true&locale=ru" /> </p>
  
 ## 🚀 Технологии
 ### Frontend:  
