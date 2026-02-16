@@ -21,7 +21,7 @@ SPA-приложение с авторизацией, защищёнными м�
 ## 🚀 Технологии
 
 <p align="">
-<img src="https://skillicons.dev/icons?i=html,css,git,js,ts,react,redux,vite,webpack,jest,cypress,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,git,js,ts,react,redux,vite,webpack,jest,cypress,figma" />
 </p>
 
 ## 📫 Контакты
